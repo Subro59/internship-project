@@ -1,2 +1,2 @@
 # internship-project
-#Html, Css, Javascript Project
+Html, Css, Javascript Project
